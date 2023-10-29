@@ -1,0 +1,61 @@
+.question{
+    margin-top: 20%;
+    margin-left: 39%;
+    height: 100%;
+    width: 100%;
+}
+
+button{
+    height: 50px;
+    position: absolute;
+    display: block;
+    border-radius: 5px;
+    width: 45px;
+    background-color: rgba(232, 65, 57, 0.4);
+    color: black;
+
+}
+
+#no{
+    margin-left: 230px;
+}
+
+#jump{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: absolute;
+}
+
+body{
+    width: 500px;
+    background-color:brown;
+}
+
+.container{
+    align-items: center;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 50vh;
+    width: 900px;
+    margin-left: 50%;
+    border-radius: 20px;
+    
+}
+
+p{
+    font-size: 30px;
+    color: black;
+    margin-left: 50%;
+}
+
+.end{
+    margin-bottom: 2px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    text-align: center;
+}
